@@ -4,8 +4,11 @@ AI image generator in JS using this <a href="https://www.youtube.com/watch?v=l3T
 
 ## Issues:
 
+-ensure elements are spelled correctly or  it will cause issues
 
 ## Changes made:
+
+- can press enter key to submit query
 
 
 ## Resources used:
